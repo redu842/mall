@@ -1,5 +1,5 @@
 <template>
-  <h1>分类</h1>
+  <h1>分类暂时不想做</h1>
 </template>
 
 <script>

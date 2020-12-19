@@ -2,7 +2,7 @@
   <div>
        <router-view></router-view>
     <tab-bar>
-     <tab-bar-item path="/home" activeColor="pink">
+     <tab-bar-item path="/home" activeColor="red">
        <img src="../../assets/img/home.png" slot="item-icon" alt="">
        <img src="../../assets/img/homered.png" alt="" slot="item-icon-active">
        <div slot="item-text">首页</div>

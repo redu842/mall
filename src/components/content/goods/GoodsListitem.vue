@@ -28,6 +28,7 @@ export default {
 <style>
 .goodsitem {
   width: 150px;
+  height: 350px;
 }
 .goodsitem img {
   width: 150px;
